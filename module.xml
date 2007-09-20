@@ -7,7 +7,7 @@
 	<menuitems>
 		<importextensions>Import Extensions</importextensions>
 	</menuitems>
-	<location>release//importextensions-0.1.tgz</location>
+	<location>release/importextensions-0.1.tgz</location>
 	<info>http://freepbx.org/wiki/ImportExtensions</info>
-	<md5sum>f5e6367aed45cb402e09394443b13281</md5sum>
+	<md5sum>12cb986fbb65ffdc10604538e912decf</md5sum>
 </module>
