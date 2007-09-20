@@ -1,0 +1,13 @@
+<module>
+	<rawname>importextensions</rawname>
+	<name>Import Extensions</name>
+	<version>0.1</version>
+	<type>setup</type>
+	<category>Module</category>
+	<menuitems>
+		<importextensions>Import Extensions</importextensions>
+	</menuitems>
+	<location>release//importextensions-0.1.tgz</location>
+	<info>http://freepbx.org/wiki/ImportExtensions</info>
+	<md5sum>1460735325254051ba3c986e06d6d05f</md5sum>
+</module>
